@@ -1,6 +1,6 @@
 # Second-Hand-Car-Dealer-Dashboard
+![image](https://github.com/Banuvathyrr/Second-Hand-Car-Dealer-Power-BI-Dashboard/assets/145739539/d04ac00c-e7b0-4a4a-8ea9-13307921976d)
 
-![image](https://github.com/Banuvathyrr/Second-Hand-Car-Dealer-Dashboard/assets/145739539/a142ab7c-136b-4bf3-8248-c66d13d8f1a6)
 
 When buying a used car from a second-hand showroom, customers typically check various aspects to ensure they are making a wise and informed decision.
 First and foremost is the budget. This helps to narrow down the customer options and ensures that they are looking at cars within their financial capacity.
@@ -45,5 +45,6 @@ c)	Maximum power in bhp
 d)	Engine capacity  
 
 This dashboard design appears to cover the essential aspects of the car-buying process and provides customers with a well-informed platform to make decisions based on their preferences and requirements.  
+
 
 **Power BI dashboard in novypro**: https://www.novypro.com/project/second-hand-car-sales-dashboard
